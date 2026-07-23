@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dweep-js/Leetcode/tree/master/0007-reverse-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dweep-js/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
