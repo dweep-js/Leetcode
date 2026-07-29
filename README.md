@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dweep-js/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/dweep-js/Leetcode/tree/master/0012-integer-to-roman) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dweep-js/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/dweep-js/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/dweep-js/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/dweep-js/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/dweep-js/Leetcode/tree/master/0012-integer-to-roman) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dweep-js/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dweep-js/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dweep-js/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dweep-js/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dweep-js/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/dweep-js/Leetcode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dweep-js/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dweep-js/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dweep-js/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
