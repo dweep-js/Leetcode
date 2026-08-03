@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dweep-js/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/dweep-js/Leetcode/tree/master/0018-4sum) |
 | [0877-stone-game](https://github.com/dweep-js/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dweep-js/Leetcode/tree/master/1406-stone-game-iii) |
 ## Math
@@ -26,10 +27,12 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dweep-js/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/dweep-js/Leetcode/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dweep-js/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/dweep-js/Leetcode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
