@@ -28,6 +28,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/dweep-js/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dweep-js/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dweep-js/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/dweep-js/Leetcode/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dweep-js/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
